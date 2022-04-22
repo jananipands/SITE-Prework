@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  line-height: 1.5;
+  font-family: Raleway, sans-serif;
+  background-image: linear-gradient(#ddd6f3, #ffc3a0);
+}
+
+h1{
+  color: white;
+  text-shadow: 2px 2px 4px #C2A537;
+  filter: drop-shadow(2px 2px #333333);
+}
+
+.hidden{
+  display: none;
+}
+
+
+#startBtn{
+  width: 100px;
+  height: 50px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  position: relative;
+  font-size: 20px;
+  font-family: Raleway, sans-serif;
+  background-color: lavender;
+}
+
+#startBtn:hover{
+  background-color: purple;
+  color: white;
+}
+
+#stopBtn{
+  width: 100px;
+  height: 50px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  position: relative;
+  font-size: 20px;
+  font-family: Raleway, sans-serif;
+  background-color: #01F6F4;
+}
+
+#stopBtn:hover{
+  background-color: #00A9B2;
+  color: white;
+}
+
+
+btn{
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 20px 80px;
+  font-size: 1.75rem;
+  position: relative;
+}
+
+
+#gameButtonID > button {
+  width:150px;
+  height:150px;
+  margin:4px;
+  border-radius: 12px;
+}
+
+#button1{
+  background: #A7FC7B;
+}
+
+#button1:active, #button1.lit{
+  background: #4BFF4D;
+}
+
+#button2{
+  background: #7BEFFC;
+}
+
+#button2:active, #button2.lit{
+  background: #2DE0FE;
+}
+
+#button3{
+  background: #E8ADF9;
+}
+
+#button3:active, #button3.lit{
+  background: #DF2DFE;
+}
+
+#button4{
+  background: #F7F17D;
+}
+
+#button4:active, #button4.lit{
+  background: yellow;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
