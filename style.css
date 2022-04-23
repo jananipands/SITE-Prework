@@ -80,35 +80,51 @@ btn{
 }
 
 #button1{
-  background: #A7FC7B;
+  background: #4BFF4D ;
 }
 
 #button1:active, #button1.lit{
-  background: #4BFF4D;
+  background: #A7FC7B ;
 }
 
 #button2{
-  background: #7BEFFC;
+  background: #2DE0FE ;
 }
 
 #button2:active, #button2.lit{
-  background: #2DE0FE;
+  background: #7BEFFC ;
 }
 
 #button3{
-  background: #E8ADF9;
+  background: #DF2DFE ;
 }
 
 #button3:active, #button3.lit{
-  background: #DF2DFE;
+  background: #E8ADF9 ;
 }
 
 #button4{
-  background: #F7F17D;
+  background: #D8C800 ;
 }
 
 #button4:active, #button4.lit{
-  background: yellow;
+  background: #FFFEB8 ;
+}
+
+#button5{
+  background: #E15757;
+}
+
+#button5:active, #button5.lit{
+  background: red;
+}
+
+#button6{
+  background: #EF8600;
+}
+
+#button6:active, #button6.lit{
+  background: #FCB752;
 }
 
 /* images and videos max out at full width */
