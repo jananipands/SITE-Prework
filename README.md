@@ -66,7 +66,8 @@ https://digitalsynopsis.com/design/beautiful-color-ui-gradients-backgrounds/
 
 4. If I had a few more hours to work on this project, I would incorporate the “Game over” and the “Victory trumpet” sounds to make the application feel more like a game. I would change the application layout to a grid layout since it would enhance the alignment of the buttons and the organization of the page itself. With extra hours, I would explore more web games to take note of the features that enhance their application. Another feature I would like to incorporate is a scoreboard. As a player, I would love to see how I rank amongst other players and, if possible, gain reward, such as coins, for scoring the highest. Additionally, I would increase the number of tiles with each turn, making the game more challenging and interesting. 
 
-
+## Interview Recording URL
+https://drive.google.com/file/d/10FnPnqCZ7RWwa8Nl7ViBSSo2gBs-2TmV/view?usp=sharing
 
 ## License
 
